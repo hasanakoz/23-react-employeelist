@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/23-react-employeelist/static/css/main.edc30bec.css",
+    "main.js": "/23-react-employeelist/static/js/main.c3ce245f.js",
+    "static/js/787.8253149f.chunk.js": "/23-react-employeelist/static/js/787.8253149f.chunk.js",
+    "index.html": "/23-react-employeelist/index.html",
+    "main.edc30bec.css.map": "/23-react-employeelist/static/css/main.edc30bec.css.map",
+    "main.c3ce245f.js.map": "/23-react-employeelist/static/js/main.c3ce245f.js.map",
+    "787.8253149f.chunk.js.map": "/23-react-employeelist/static/js/787.8253149f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edc30bec.css",
+    "static/js/main.c3ce245f.js"
+  ]
+}
